@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <!-- A -->
+    <string name="action_about">Sobre</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_deletar">Deletar</string>
+    <string name="about_dialog_text">
+<![CDATA[
+<b>Aplicativo dos Carros 2015</b><br>
+Versao %s<br><br>
+<a href="http://www.livroandroid.com.br">http://livroandroid.com.br</a><br><br>
+<a href="http://www.facebook.com/ricardolecheta">http://facebook.com/ricardolecheta</a><br><br>
+<a href="https://plus.google.com/+RicardoLecheta">https://plus.google.com/+RicardoLecheta</a>
+	]]>
+	</string>
+
+    <string name="about_dialog_title">Livro Android</string>
+
+    <!-- C -->
+    <string name="carros">Carros</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="classicos">Clássicos</string>
+    <string name="classico">Clássico</string>
+
+    <!-- D -->
+    <string name="descricao">Descrição</string>
+    <string name="desc_activity_cadastro">Para simplificar a demo, só podemos enviar o tipo, nome, descrição e a foto do Carro.</string>
+
+    <!-- E -->
+    <string name="esportivos">Esportivos</string>
+    <string name="error_conexao_indisponivel">Conexão indisponível. Verifique seu Wi-Fi ou 3G.</string>
+
+    <!-- L -->
+    <string name="luxo">Luxo</string>
+    <string name="latitudeLongitude">Lat / Lng</string>
+
+    <!-- M -->
+    <string name="mapa">Mapa</string>
+    <string name="msg_error_from_desc">O campo descrição não foi preenchido</string>
+    <string name="msg_error_from_nome">O campo nome não foi preenchido</string>
+
+    <!-- N -->
+    <string name="nav_drawer_username">Ricardo Lecheta</string>
+    <string name="nav_drawer_email">rlecheta@gmail.com</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="nome">Nome</string>
+    <string name="novo_carro">Novo Carro</string>
+
+    <!-- O -->
+    <string name="ok">OK</string>
+
+    <!-- S -->
+    <string name="sobre">Sobre</string>
+    <string name="site_do_livro">Site do Livro</string>
+
+    <!-- V -->
+    <string name="vazio" />
+    <string name="video">Vídeo</string>
+    <string name="msg_confirma_excluir_carro">Confirma excluir este carro?</string>
+    <string name="sim">SIM</string>
+    <string name="nao">NÃO</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="msg_carro_favoritado">Adicionado nos Favoritos com sucesso.</string>
+    <string name="msg_carro_desfavoritado">Removido dos Favoritos com sucesso.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

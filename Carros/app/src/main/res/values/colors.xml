@@ -1,0 +1,29 @@
+<resources>
+    <!-- Cores do Tema Material -->
+    <!-- Cor primária do aplicativo -->
+    <color name="primary">#3F51B5</color>
+    <!-- Variação escura da cor primária para a status bar e contextual app bars -->
+    <color name="primary_dark">#303F9F</color>
+    <!-- Cor de acenuação para as views (checkbox, textviews etc.) -->
+    <color name="accent">#FF4081</color>
+    <!-- Cor para o efeito ripple -->
+    <color name="control_highlight">#B3E5FC</color>
+    <!-- Outras cores -->
+    <color name="transparent">#0000</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="blue">#00f</color>
+    <color name="red">#f00</color>
+    <color name="green">#0f0</color>
+    <color name="yellow">#fff000</color>
+    <color name="gray">#CCCCCC</color>
+
+    <!-- SwipeRefreshLayout -->
+    <color name="refresh_progress_1">#3F51B5</color>
+    <color name="refresh_progress_2">#FF1B00</color>
+    <color name="refresh_progress_3">#E8D306</color>
+    <color name="refresh_progress_4">#008503</color>
+
+
+
+</resources><!-- FF4081 -->
