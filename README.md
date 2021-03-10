@@ -1,2 +1,2 @@
-# projeto-carros
-Projeto do Livro Kotlin Android Essencial 1-Edição
+# Cars Project
+Project of book: Android Kotlin 1ª Edição, Ricardo Lecheta
